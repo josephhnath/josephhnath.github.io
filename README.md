@@ -1,2 +1,5 @@
 # josephhnath.github.io
-my website
+welcome to my website (simple for now)
+
+
+😁
