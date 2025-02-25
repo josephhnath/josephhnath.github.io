@@ -1,11 +1,11 @@
 # Site settings
 #title: "Joseph Guillermo Pinete Hnath's (Simple) Website"
-title: ""
+title: "Joseph GP Hnath's website"
 author:
   name: Joseph Guillermo Pinete Hnath
   email: josephhnath@g.harvard.edu
 #description: "work in progress :)"
-description: ""
+description: "under construction :)"
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
