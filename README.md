@@ -5,6 +5,6 @@
 
 [My CV (updated March 2025)](https://github.com/josephhnath/josephhnath.github.io/blob/main/jhnath_CV_2025_03.pdf) 📝
 
-[check out my music here]([url](https://soundcloud.com/joseph_hnath)) 🎶
+[check out my music here](https://soundcloud.com/joseph_hnath) 🎶
 
-[a nice article about my research]([url](https://gsas.harvard.edu/news/three-students-earn-top-national-award-social-science)) ☺️
+[a nice article about my research](https://gsas.harvard.edu/news/three-students-earn-top-national-award-social-science) ☺️
