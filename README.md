@@ -9,4 +9,4 @@
 
 [a nice article about my research](https://gsas.harvard.edu/news/three-students-earn-top-national-award-social-science) ☺️
 
-[Kalitero]([https://kalitero-medicare.com](https://full-stack-local-production.up.railway.app)) 💼
+[Kalitero]([https://kalitero-medicare.com](https://full-stack-local-production.up.railway.app) 💼
